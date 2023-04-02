@@ -1,8 +1,12 @@
 {
-  "name": "vite-js-tailwind-babel-starter",
-  "version": "1.0.0",
-  "description": "",
+  "name": "javid-create-js",
+  "version": "1.0.6",
+  "description": "Vite Tailwind javascript bable",
   "main": "index.js",
+  
+  "bin": {
+    "javid": "./index.js"
+  },
   "scripts": {
     "dev": "vite",
     "build": "rm -rf dist && vite build",
@@ -34,5 +38,8 @@
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.1",
     "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
   }
 }
