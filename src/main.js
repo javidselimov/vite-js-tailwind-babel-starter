@@ -3,3 +3,6 @@ const sayHello = () => {
 };
 
 sayHello();
+
+let a = 4;
+
