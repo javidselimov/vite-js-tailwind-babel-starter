@@ -1,5 +1,5 @@
 {
-  "name": "jui-library-vite",
+  "name": "vite-js-tailwind-babel-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/javidselimov/jui-library-vite.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Javid Salimov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/javidselimov/jui-library-vite/issues"
